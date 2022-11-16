@@ -6,7 +6,7 @@ require "nps/version"
 
 Gem::Specification.new do |s|
   s.name        = 'nps_sdk'
-  s.version     = Nps::VERSION
+  s.version     = '1.2.0'
   s.date        = '2018-03-12'
   s.summary     = "SDK!"
   s.description = "Ruby SDK for NPS Services"
